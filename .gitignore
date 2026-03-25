@@ -19,5 +19,12 @@ Thumbs.db
 *.log
 /logs/
 
+# Configs
+/conf/
+
+
+# SQL
+/sql/
+
 # Uploaded files
 public/img/uploads/
